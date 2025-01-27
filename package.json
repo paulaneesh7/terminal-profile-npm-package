@@ -1,0 +1,38 @@
+{
+  "name": "paulaneesh7",
+  "version": "1.0.0",
+  "description": "Aneesh Paul's terminal portfolio - A beautiful CLI portfolio that runs with npx",
+  "main": "bin/index.js",
+  "bin": {
+    "paulaneesh7": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "node bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "terminal",
+    "cli",
+    "aneesh-paul",
+    "paulaneesh7",
+    "npx"
+  ],
+  "author": "Aneesh Paul",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "boxen": "^5.1.2",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.4",
+    "open": "^8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulaneesh7/terminal-profile-npm-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paulaneesh7/terminal-profile-npm-package/issues"
+  },
+  "homepage": "https://github.com/paulaneesh7/terminal-profile-npm-package#readme"
+}
