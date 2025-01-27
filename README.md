@@ -4,11 +4,13 @@ A beautiful terminal-based portfolio that displays information about Aneesh Paul
 
 ## 🚀 Quick Start
 
-Just run:
+Run this command to view my portfolio (no installation needed):
 
 ```bash
 npx paulaneesh7
 ```
+
+> Note: Using `npx` is recommended as it runs the portfolio instantly without installing anything on your system!
 
 ## ✨ Features
 
