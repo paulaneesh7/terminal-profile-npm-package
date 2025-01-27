@@ -1,6 +1,6 @@
 {
   "name": "paulaneesh7",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Aneesh Paul's terminal portfolio - A beautiful CLI portfolio that runs with npx",
   "main": "bin/index.js",
   "bin": {

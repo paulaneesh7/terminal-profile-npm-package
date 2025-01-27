@@ -1,17 +1,17 @@
 module.exports = [
     {
-        name: 'Shadow Play',
-        description: 'A Video Streaming Web App which allows users to Watch and share videos effortlessly. It brings a variety of content to your fingertips.',
-        link: 'https://shadowplay.vercel.app/'
+        name: 'Stayz',
+        description: 'Developed a hotel booking app enabling users to discover and reserve accommodations, with a unique feature allowing users to list their own properties for rent.',
+        link: 'https://stayz.vercel.app'
     },
     {
-        name: 'Blog App',
-        description: 'Write blogs on various topics and start your journey as an impactful Content Creator, exploring your passions, sharing your knowledge and experiences with the world.',
-        link: 'https://blogapp07.vercel.app/'
+        name: 'Polyconverse',
+        description: 'PolyConverse is a cutting-edge AI-based language translation application designed to bridge the gap between different languages, fostering seamless communication across the globe.',
+        link: 'https://polyconverse.paulaneesh7.in'
     },
     {
-        name: 'Chasuite',
-        description: 'Your All in one AI workspace with multimodel ai support.',
-        link: 'https://pivotwithapi.com/chat'
+        name: 'SummAIze',
+        description: 'SummAIze is a powerful AI-based content summarization tool that allows you to quickly generate concise summaries of lengthy articles, blogs, and web content. Say goodbye to information overload and save time with SummAIze!',
+        link: 'https://sumze.vercel.app'
     }
 ];
