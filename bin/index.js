@@ -15,7 +15,7 @@ const mainMenu = require('../src/menus/mainMenu');
 const projectsMenu = require('../src/menus/projectsMenu');
 
 // Bio
-const bio = chalk.italic('A code-crafting enthusiast who turns ideas into digital reality');
+const bio = chalk.italic('A Digital Alchemist forging code into reality with pure chaos and creativity');
 
 // Create the content
 const content = `
