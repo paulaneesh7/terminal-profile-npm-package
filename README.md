@@ -66,4 +66,4 @@ MIT
 Aneesh Paul
 - Twitter: [@vincenzo7v2](https://twitter.com/vincenzo7v2)
 - GitHub: [@paulaneesh7](https://github.com/paulaneesh7)
-- Website: [paulaneesh7.dev](https://paulaneesh7.in)
+- Website: [paulaneesh7.in](https://paulaneesh7.in)
